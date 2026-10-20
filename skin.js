@@ -16588,7 +16588,7 @@ pano.on("modelloaded", () => { pano.setVariableValue("model_loading", false); })
 		me._ht_title.logicBlock_alpha = function() {
 			var newLogicStateAlpha;
 			if (
-				((me.elementMouseOver['ht_node'] == true))
+				(true)
 			)
 			{
 				newLogicStateAlpha = 0;
@@ -16878,7 +16878,7 @@ pano.on("modelloaded", () => { pano.setVariableValue("model_loading", false); })
 		me._ht_title.logicBlock_alpha = function() {
 			var newLogicStateAlpha;
 			if (
-				((me.elementMouseOver['ht_node'] == true))
+				(true)
 			)
 			{
 				newLogicStateAlpha = 0;
