@@ -6,18 +6,20 @@
       <level height="972" predecode="1" preload="1" width="972"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T13:44:40" comment="" copyright="" customnodeid="" datetime="04.10.2026 10:44" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node4" source="" tags="_2" title="218"/>
-    <view fovmode="2" pannorth="0">
+    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T13:44:40" comment="218" copyright="" customnodeid="" datetime="04.10.2026 10:44" description="Площадь: 8,85 м²" heading="-192.396" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node4" source="" tags="_2" title="Холл">
+      <mapcoords mapid="1" x="1.56418" x_floorplan_percent="65.7242" y="-1.85394" y_floorplan_percent="71.8085"/>
+    </userdata>
+    <view fovmode="2" pannorth="-192.396">
       <start fov="144.317" pan="166.348" projection="4" tilt="-8"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="153.47" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="166.437" skinid="ht_node" target="-0.0/-12.5/141.8" tilt="-23.5047" title="" url="{node14}"/>
-      <hotspot description="" id="Point02" pan="49.3632" skinid="ht_node" target="-174.2/-8.0/141.8" tilt="-35.3469" title="" url="{node6}"/>
-      <hotspot description="" id="Point03" pan="104.102" skinid="ht_node" target="-12.7/-18.0/141.8" tilt="-38.4934" title="" url="{node9}"/>
-      <hotspot description="" id="Point04" pan="-5.79221" skinid="ht_node" target="92.6/6.1/141.8" tilt="-3.55044" title="" url="{node109}"/>
+      <hotspot description="" id="Point01" pan="167.888" skinid="ht_node" target="-0.0/-12.5/141.8" tilt="-24.4437" title="Холл" url="{node14}"/>
+      <hotspot description="" id="Point02" pan="49.3632" skinid="ht_node" target="-174.2/-8.0/141.8" tilt="-35.3469" title="Котельная/постирочная" url="{node6}"/>
+      <hotspot description="" id="Point03" pan="104.102" skinid="ht_node" target="-12.7/-18.0/141.8" tilt="-38.4934" title="Санузел" url="{node9}"/>
+      <hotspot description="" id="Point04" pan="-5.79221" skinid="ht_node" target="92.1/15.0/141.8" tilt="-3.55044" title="323" url="{node109}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -29,15 +31,17 @@
       <level height="970" predecode="1" preload="1" width="970"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T13:47:22" comment="" copyright="" customnodeid="" datetime="04.10.2026 10:47" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node9" source="" tags="_2" title="223"/>
-    <view fovmode="2" pannorth="0">
+    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T13:47:22" comment="232" copyright="" customnodeid="" datetime="04.10.2026 10:47" description="Площадь: 1,76 м²" heading="-106.039" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node9" source="" tags="_2" title="Санузел">
+      <mapcoords mapid="1" x="1.75781" x_floorplan_percent="73.8604" y="-1.67816" y_floorplan_percent="65"/>
+    </userdata>
+    <view fovmode="2" pannorth="-106.039">
       <start fov="144.224" pan="-8.54373" projection="4" tilt="-18"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="0.0393083" skinid="ht_node" target="166.3/-8.0/144.3" tilt="-40.6875" title="" url="{node4}"/>
+      <hotspot description="" id="Point01" pan="0.0393083" skinid="ht_node" target="166.3/-8.0/144.3" tilt="-40.6875" title="Холл" url="{node4}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -48,15 +52,17 @@
       <level height="972" predecode="1" preload="1" width="972"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T13:46:07" comment="" copyright="" customnodeid="" datetime="04.10.2026 10:46" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node6" source="" tags="_2" title="220"/>
-    <view fovmode="2" pannorth="0">
+    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T13:46:07" comment="220" copyright="" customnodeid="" datetime="04.10.2026 10:46" description="Площадь: 4,92 м²" heading="134.033" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node6" source="" tags="_2" title="Котельная/постирочная">
+      <mapcoords mapid="1" x="2.0668" x_floorplan_percent="86.8436" y="-1.94733" y_floorplan_percent="75.4255"/>
+    </userdata>
+    <view fovmode="2" pannorth="134.033">
       <start fov="144.317" pan="-174.178" projection="4" tilt="-8"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="-135.523" skinid="ht_node" target="166.3/-8.0/144.3" tilt="-26.2824" title="" url="{node4}"/>
+      <hotspot description="" id="Point01" pan="-135.523" skinid="ht_node" target="166.3/-8.0/144.3" tilt="-26.2824" title="Холл" url="{node4}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -67,18 +73,20 @@
       <level height="972" predecode="1" preload="1" width="972"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T13:48:23" comment="" copyright="" customnodeid="" datetime="04.10.2026 10:48" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node14" source="" tags="_2" title="228"/>
-    <view fovmode="2" pannorth="0">
+    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T13:48:23" comment="228" copyright="" customnodeid="" datetime="04.10.2026 10:48" description="Площадь: 8,85 м²" heading="-90.4108" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node14" source="" tags="_2" title="Холл">
+      <mapcoords mapid="1" x="1.56693" x_floorplan_percent="65.8396" y="-1.29639" y_floorplan_percent="50.2128"/>
+    </userdata>
+    <view fovmode="2" pannorth="-90.4108">
       <start fov="141.8" pan="-0.370592" projection="4" tilt="-13"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="3.19371" skinid="ht_node" target="4.6/-8.0/141.8" tilt="-25.7823" title="" url="{node21}"/>
-      <hotspot description="" id="Point02" pan="92.0943" skinid="ht_node" target="-10.7/-8.0/144.3" tilt="-25.103" title="" url="{node4}"/>
-      <hotspot description="" id="Point03" pan="176.865" skinid="ht_node" target="87.7/-9.0/141.8" tilt="9.12334" title="" url="{node38}"/>
-      <hotspot description="" id="Point04" pan="-94.2081" skinid="ht_node" target="-92.4/-8.0/141.8" tilt="-26.0381" title="" url="{node18}"/>
+      <hotspot description="" id="Point01" pan="3.19371" skinid="ht_node" target="4.6/-8.0/141.8" tilt="-25.7823" title="Гостинная/кухная-столовая" url="{node21}"/>
+      <hotspot description="" id="Point02" pan="92.0943" skinid="ht_node" target="-10.7/-8.0/144.3" tilt="-25.103" title="Холл" url="{node4}"/>
+      <hotspot description="" id="Point03" pan="176.865" skinid="ht_node" target="87.7/-9.0/141.8" tilt="9.12334" title="Лестничная зона" url="{node38}"/>
+      <hotspot description="" id="Point04" pan="-94.2081" skinid="ht_node" target="-92.4/-8.0/141.8" tilt="-26.0381" title="Комната" url="{node18}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -90,16 +98,18 @@
       <level height="970" predecode="1" preload="1" width="970"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T13:50:35" comment="" copyright="" customnodeid="" datetime="04.10.2026 10:50" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node18" source="" tags="_2" title="232"/>
-    <view fovmode="2" pannorth="0">
+    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T13:50:35" comment="232" copyright="" customnodeid="" datetime="04.10.2026 10:50" description="Площадь: 10,89 м²" heading="-90.4026" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node18" source="" tags="_2" title="Комната">
+      <mapcoords mapid="1" x="1.84158" x_floorplan_percent="77.3803" y="-0.722351" y_floorplan_percent="27.9787"/>
+    </userdata>
+    <view fovmode="2" pannorth="-90.4026">
       <start fov="144.32" pan="-90.3712" projection="4" tilt="-8"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="-66.5126" skinid="ht_node" target="179.5/-10.0/141.8" tilt="-23.0694" title="" url="{node98}"/>
-      <hotspot description="" id="Point02" pan="40.8615" skinid="ht_node" target="90.8/-13.0/141.8" tilt="-27.8043" title="" url="{node14}"/>
+      <hotspot description="" id="Point01" pan="-66.5126" skinid="ht_node" target="179.5/-10.0/141.8" tilt="-23.0694" title="Терраса" url="{node98}"/>
+      <hotspot description="" id="Point02" pan="40.8615" skinid="ht_node" target="90.8/-13.0/141.8" tilt="-27.8043" title="Холл" url="{node14}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -110,18 +120,20 @@
       <level height="972" predecode="1" preload="1" width="972"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T13:51:25" comment="" copyright="" customnodeid="" datetime="04.10.2026 10:51" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node21" source="" tags="_2" title="235"/>
-    <view fovmode="2" pannorth="0">
+    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T13:51:25" comment="235" copyright="" customnodeid="" datetime="04.10.2026 10:51" description="Площадь: 34,66 м²" heading="93.6478" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node21" source="" tags="_2" title="Гостинная/кухная-столовая">
+      <mapcoords mapid="1" x="0.973663" x_floorplan_percent="40.9117" y="-1.34583" y_floorplan_percent="52.1277"/>
+    </userdata>
+    <view fovmode="2" pannorth="93.6478">
       <start fov="144.32" pan="4.55637" projection="4" tilt="-8"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="7.66409" skinid="ht_node" target="179.8/-13.0/141.8" tilt="-25.229" title="" url="{node14}"/>
-      <hotspot description="" id="Point02" pan="94.4988" skinid="ht_node" target="-28.5/-8.0/141.8" tilt="-24.074" title="" url="{node81}"/>
-      <hotspot description="" id="Point03" pan="-167.749" skinid="ht_node" target="28.4/-10.0/141.8" tilt="-20.3764" title="" url="{node87}"/>
-      <hotspot description="" id="Point04" pan="-83.2144" skinid="ht_node" target="-137.4/-8.0/141.8" tilt="-19.3016" title="" url="{node34}"/>
+      <hotspot description="" id="Point01" pan="7.66409" skinid="ht_node" target="179.8/-13.0/141.8" tilt="-25.229" title="Холл" url="{node14}"/>
+      <hotspot description="" id="Point02" pan="94.4988" skinid="ht_node" target="-28.5/-8.0/141.8" tilt="-24.074" title="Гостинная/кухная-столовая" url="{node81}"/>
+      <hotspot description="" id="Point03" pan="-167.749" skinid="ht_node" target="28.4/-10.0/141.8" tilt="-20.3764" title="Терраса" url="{node87}"/>
+      <hotspot description="" id="Point04" pan="-83.2144" skinid="ht_node" target="-137.4/-8.0/141.8" tilt="-19.3016" title="Гостинная/кухная-столовая" url="{node34}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -132,18 +144,20 @@
       <level height="972" predecode="1" preload="1" width="972"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:16:23" comment="" copyright="" customnodeid="" datetime="04.10.2026 11:16" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node81" source="" tags="_2" title="295"/>
-    <view fovmode="2" pannorth="0">
+    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:16:23" comment="295" copyright="" customnodeid="" datetime="04.10.2026 11:16" description="Площадь: 34,66 м²" heading="150.856" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node81" source="" tags="_2" title="Гостинная/кухная-столовая">
+      <mapcoords mapid="1" x="0.970917" x_floorplan_percent="40.7963" y="-0.873413" y_floorplan_percent="33.8298"/>
+    </userdata>
+    <view fovmode="2" pannorth="150.856">
       <start fov="144.224" pan="-28.5293" projection="4" tilt="-8"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="-28.29" skinid="ht_node" target="4.6/-8.0/141.8" tilt="-31.46" title="" url="{node21}"/>
-      <hotspot description="" id="Point02" pan="23.36" skinid="ht_node" target="179.8/-13.0/141.8" tilt="-20.6" title="" url="{node14}"/>
-      <hotspot description="" id="Point03" pan="-74.3" skinid="ht_node" target="28.4/-10.0/141.8" tilt="-16.95" title="" url="{node87}"/>
-      <hotspot description="" id="Point04" pan="150.28" skinid="ht_node" target="-1.1/-10.0/141.8" tilt="-22.87" title="" url="{node95}"/>
+      <hotspot description="" id="Point01" pan="-28.29" skinid="ht_node" target="4.6/-8.0/141.8" tilt="-31.46" title="Гостинная/кухная-столовая" url="{node21}"/>
+      <hotspot description="" id="Point02" pan="23.36" skinid="ht_node" target="179.8/-13.0/141.8" tilt="-20.6" title="Холл" url="{node14}"/>
+      <hotspot description="" id="Point03" pan="-74.3" skinid="ht_node" target="28.4/-10.0/141.8" tilt="-16.95" title="Терраса" url="{node87}"/>
+      <hotspot description="" id="Point04" pan="150.28" skinid="ht_node" target="-1.1/-10.0/141.8" tilt="-22.87" title="Тамбур" url="{node95}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -155,17 +169,19 @@
       <level height="970" predecode="1" preload="1" width="970"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T13:55:14" comment="" copyright="" customnodeid="" datetime="04.10.2026 10:55" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node34" source="" tags="_2" title="248"/>
-    <view fovmode="2" pannorth="0">
+    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T13:55:14" comment="248" copyright="" customnodeid="" datetime="04.10.2026 10:55" description="Площадь: 34,66 м²" heading="-136.317" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node34" source="" tags="_2" title="Гостинная/кухная-столовая">
+      <mapcoords mapid="1" x="0.95993" x_floorplan_percent="40.3347" y="-1.96655" y_floorplan_percent="76.1702"/>
+    </userdata>
+    <view fovmode="2" pannorth="-136.317">
       <start fov="144.32" pan="-137.449" projection="4" tilt="-8"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="-137.19" skinid="ht_node" target="4.6/-8.0/141.8" tilt="-21.53" title="" url="{node21}"/>
-      <hotspot description="" id="Point02" pan="-93.68" skinid="ht_node" target="28.4/-10.0/141.8" tilt="-15.44" title="" url="{node87}"/>
-      <hotspot description="" id="Point03" pan="-173.17" skinid="ht_node" target="179.8/-13.0/141.8" tilt="-17.4" title="" url="{node14}"/>
+      <hotspot description="" id="Point01" pan="-137.19" skinid="ht_node" target="4.6/-8.0/141.8" tilt="-21.53" title="Гостинная/кухная-столовая" url="{node21}"/>
+      <hotspot description="" id="Point02" pan="-93.68" skinid="ht_node" target="28.4/-10.0/141.8" tilt="-15.44" title="Терраса" url="{node87}"/>
+      <hotspot description="" id="Point03" pan="-173.17" skinid="ht_node" target="179.8/-13.0/141.8" tilt="-17.4" title="Холл" url="{node14}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -176,16 +192,19 @@
       <level height="972" predecode="1" preload="1" width="972"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T13:56:41" comment="" copyright="" customnodeid="" datetime="04.10.2026 10:56" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node38" source="" tags="_2" title="252"/>
-    <view fovmode="2" pannorth="0">
+    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T13:56:41" comment="252" copyright="" customnodeid="" datetime="04.10.2026 10:56" description="Площадь: 3,88 м²" heading="-2.55879" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node38" source="" tags="_2" title="Лестничная зона">
+      <mapcoords mapid="1" x="2.12448" x_floorplan_percent="89.2672" y="-1.28265" y_floorplan_percent="49.6809"/>
+      <mapcoords mapid="FloorPlan01" x="1.77292" x_floorplan_percent="88.4853" y="-0.973663" y_floorplan_percent="43.2054"/>
+    </userdata>
+    <view fovmode="2" pannorth="-2.55879">
       <start fov="144.32" pan="87.6789" projection="4" tilt="-9"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="97.3404" skinid="ht_node" target="-0.2/-13.0/141.8" tilt="-42.1121" title="" url="{node14}"/>
-      <hotspot description="" id="Point02" pan="80.6625" skinid="ht_node" target="-179.5/-9.0/141.8" tilt="5.88497" title="" url="{node39}"/>
+      <hotspot description="" id="Point01" pan="97.3404" skinid="ht_node" target="-0.2/-13.0/141.8" tilt="-42.1121" title="Холл" url="{node14}"/>
+      <hotspot description="" id="Point02" pan="80.6625" skinid="ht_node" target="-179.5/-9.0/141.8" tilt="5.88497" title="Холл" url="{node39}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -196,20 +215,22 @@
       <level height="972" predecode="1" preload="1" width="972"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T13:58:00" comment="" copyright="" customnodeid="" datetime="04.10.2026 10:58" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node39" source="" tags="_2" title="253"/>
-    <view fovmode="2" pannorth="0">
+    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T13:58:00" comment="253" copyright="" customnodeid="" datetime="04.10.2026 10:58" description="Площадь: 12,61 м²" heading="91.6039" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node39" source="" tags="_2" title="Холл ">
+      <mapcoords mapid="FloorPlan01" x="1.01486" x_floorplan_percent="50.6511" y="-0.995636" y_floorplan_percent="44.1804"/>
+    </userdata>
+    <view fovmode="2" pannorth="91.6039">
       <start fov="144.32" pan="-179.542" projection="4" tilt="-9"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="-179.43" skinid="ht_node" target="-93.6/-9.0/141.8" tilt="-24.6099" title="" url="{node71}"/>
-      <hotspot description="" id="Point02" pan="-118.761" skinid="ht_node" target="132.9/-9.0/141.8" tilt="-19.8918" title="" url="{node47}"/>
-      <hotspot description="" id="Point03" pan="122.109" skinid="ht_node" target="89.7/-10.0/141.8" tilt="-23.0891" title="" url="{node74}"/>
-      <hotspot description="" id="Point04" pan="62.8265" skinid="ht_node" target="75.8/-10.0/141.8" tilt="-23.2159" title="" url="{node80}"/>
-      <hotspot description="" id="Point05" pan="-57.4182" skinid="ht_node" target="126.3/-9.0/141.8" tilt="-24.9308" title="" url="{node46}"/>
-      <hotspot description="" id="Point06" pan="1.73161" skinid="ht_node" target="87.7/-9.0/141.8" tilt="-34.8684" title="" url="{node38}"/>
+      <hotspot description="" id="Point01" pan="-179.43" skinid="ht_node" target="-93.6/-9.0/141.8" tilt="-24.6099" title="Гардеробная" url="{node71}"/>
+      <hotspot description="" id="Point02" pan="-118.761" skinid="ht_node" target="132.9/-9.0/141.8" tilt="-19.8918" title="Спальня 3" url="{node47}"/>
+      <hotspot description="" id="Point03" pan="122.109" skinid="ht_node" target="89.7/-10.0/141.8" tilt="-23.0891" title="Спальня 1" url="{node74}"/>
+      <hotspot description="" id="Point04" pan="62.8265" skinid="ht_node" target="75.8/-10.0/141.8" tilt="-23.2159" title="Спальня 2" url="{node80}"/>
+      <hotspot description="" id="Point05" pan="-57.4182" skinid="ht_node" target="126.3/-9.0/141.8" tilt="-24.9308" title="Санузел" url="{node46}"/>
+      <hotspot description="" id="Point06" pan="1.73161" skinid="ht_node" target="87.7/-9.0/141.8" tilt="-34.8684" title="Лестничная зона" url="{node38}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -220,15 +241,17 @@
       <level height="972" predecode="1" preload="1" width="972"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T13:59:25" comment="" copyright="" customnodeid="" datetime="04.10.2026 10:59" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node46" source="" tags="_2" title="260"/>
-    <view fovmode="2" pannorth="0">
+    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T13:59:25" comment="260" copyright="" customnodeid="" datetime="04.10.2026 10:59" description="Площадь: ??? м²" heading="87.9308" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node46" source="" tags="_2" title="Санузел">
+      <mapcoords mapid="FloorPlan01" x="1.36093" x_floorplan_percent="67.9232" y="-1.42136" y_floorplan_percent="63.0713"/>
+    </userdata>
+    <view fovmode="2" pannorth="87.9308">
       <start fov="144.32" pan="126.291" projection="4" tilt="-9"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="126.29" skinid="ht_node" target="-179.5/-9.0/141.8" tilt="-24.14" title="" url="{node39}"/>
+      <hotspot description="" id="Point01" pan="126.29" skinid="ht_node" target="-179.5/-9.0/141.8" tilt="-24.14" title="Холл" url="{node39}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -239,16 +262,18 @@
       <level height="972" predecode="1" preload="1" width="972"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:00:03" comment="" copyright="" customnodeid="" datetime="04.10.2026 11:00" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node47" source="" tags="_2" title="261"/>
-    <view fovmode="2" pannorth="0">
+    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:00:03" comment="261" copyright="" customnodeid="" datetime="04.10.2026 11:00" description="Площадь: ??? м²" heading="222.564" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node47" source="" tags="_2" title="Спальня 3">
+      <mapcoords mapid="FloorPlan01" x="0.480652" x_floorplan_percent="23.989" y="-1.70151" y_floorplan_percent="75.5027"/>
+    </userdata>
+    <view fovmode="2" pannorth="222.564">
       <start fov="144.32" pan="132.884" projection="4" tilt="-9"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="-173.25" skinid="ht_node" target="91.5/-9.0/141.8" tilt="-20.41" title="" url="{node39}"/>
-      <hotspot description="" id="Point02" pan="102.03" skinid="ht_node" target="-30.3/-9.0/141.8" tilt="-24.35" title="" url="{node51}"/>
+      <hotspot description="" id="Point01" pan="-173.25" skinid="ht_node" target="91.5/-9.0/141.8" tilt="-20.41" title="Холл" url="{node39}"/>
+      <hotspot description="" id="Point02" pan="102.03" skinid="ht_node" target="-30.3/-9.0/141.8" tilt="-24.35" title="???" url="{node51}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -260,16 +285,18 @@
       <level height="970" predecode="1" preload="1" width="970"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:00:56" comment="" copyright="" customnodeid="" datetime="04.10.2026 11:00" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node51" source="" tags="_2" title="265"/>
-    <view fovmode="2" pannorth="0">
+    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:00:56" comment="265" copyright="" customnodeid="" datetime="04.10.2026 11:00" description="Площадь: ??? м²" heading="60.3342" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node51" source="" tags="_2" title="???">
+      <mapcoords mapid="FloorPlan01" x="1.18378" x_floorplan_percent="59.0816" y="-1.98441" y_floorplan_percent="88.0561"/>
+    </userdata>
+    <view fovmode="2" pannorth="60.3342">
       <start fov="144.32" pan="-30.302" projection="4" tilt="-9"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="-29.37" skinid="ht_node" target="-32.7/-9.0/141.8" tilt="-29.25" title="" url="{node61}"/>
-      <hotspot description="" id="Point02" pan="146.63" skinid="ht_node" target="132.9/-9.0/141.8" tilt="-22.16" title="" url="{node47}"/>
+      <hotspot description="" id="Point01" pan="-29.37" skinid="ht_node" target="-32.7/-9.0/141.8" tilt="-29.25" title="???" url="{node61}"/>
+      <hotspot description="" id="Point02" pan="146.63" skinid="ht_node" target="132.9/-9.0/141.8" tilt="-22.16" title="Спальня 3" url="{node47}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -280,15 +307,17 @@
       <level height="972" predecode="1" preload="1" width="972"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:05:09" comment="" copyright="" customnodeid="" datetime="04.10.2026 11:05" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node61" source="" tags="_2" title="275"/>
-    <view fovmode="2" pannorth="0">
+    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:05:09" comment="275" copyright="" customnodeid="" datetime="04.10.2026 11:05" description="Площадь: ??? м²" heading="146.011" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node61" source="" tags="_2" title="???">
+      <mapcoords mapid="FloorPlan01" x="1.62735" x_floorplan_percent="81.22" y="-1.81412" y_floorplan_percent="80.4997"/>
+    </userdata>
+    <view fovmode="2" pannorth="146.011">
       <start fov="144.32" pan="-32.7307" projection="4" tilt="-9"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="-42.77" skinid="ht_node" target="148.7/-9.0/141.8" tilt="-25.21" title="" url="{node51}"/>
+      <hotspot description="" id="Point01" pan="-42.77" skinid="ht_node" target="148.7/-9.0/141.8" tilt="-25.21" title="???" url="{node51}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -299,15 +328,17 @@
       <level height="972" predecode="1" preload="1" width="972"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:11:39" comment="" copyright="" customnodeid="" datetime="04.10.2026 11:11" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node71" source="" tags="_2" title="285"/>
-    <view fovmode="2" pannorth="0">
+    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:11:39" comment="285" copyright="" customnodeid="" datetime="04.10.2026 11:11" description="Площадь: 6,13 м²" heading="-2.70575" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node71" source="" tags="_2" title="Гардеробная">
+      <mapcoords mapid="FloorPlan01" x="0.314484" x_floorplan_percent="15.6957" y="-1.02173" y_floorplan_percent="45.3382"/>
+    </userdata>
+    <view fovmode="2" pannorth="-2.70575">
       <start fov="144.32" pan="-93.6211" projection="4" tilt="-9"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="-92.94" skinid="ht_node" target="1.5/-9.0/141.8" tilt="-20.24" title="" url="{node39}"/>
+      <hotspot description="" id="Point01" pan="-92.94" skinid="ht_node" target="1.5/-9.0/141.8" tilt="-20.24" title="Холл" url="{node39}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -318,15 +349,17 @@
       <level height="972" predecode="1" preload="1" width="972"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:12:44" comment="" copyright="" customnodeid="" datetime="04.10.2026 11:12" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node74" source="" tags="_2" title="288"/>
-    <view fovmode="2" pannorth="0">
+    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:12:44" comment="288" copyright="" customnodeid="" datetime="04.10.2026 11:12" description="Площадь: 12,33 м²" heading="89.82" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node74" source="" tags="_2" title="Спальня 1">
+      <mapcoords mapid="FloorPlan01" x="0.55069" x_floorplan_percent="27.4846" y="-0.477905" y_floorplan_percent="21.2066"/>
+    </userdata>
+    <view fovmode="2" pannorth="89.82">
       <start fov="144.32" pan="-90.3337" projection="4" tilt="-10"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="-51.7716" skinid="ht_node" target="-92.5/-9.0/141.8" tilt="-21.3265" title="" url="{node39}"/>
+      <hotspot description="" id="Point01" pan="-51.7716" skinid="ht_node" target="-92.5/-9.0/141.8" tilt="-21.3265" title="Холл" url="{node39}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -337,15 +370,17 @@
       <level height="972" predecode="1" preload="1" width="972"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:14:53" comment="" copyright="" customnodeid="" datetime="04.10.2026 11:14" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node80" source="" tags="_2" title="294"/>
-    <view fovmode="2" pannorth="0">
+    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:14:53" comment="294" copyright="" customnodeid="" datetime="04.10.2026 11:14" description="Площадь: 11,98 м²" heading="75.806" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node80" source="" tags="_2" title="Спальня 2">
+      <mapcoords mapid="FloorPlan01" x="1.39389" x_floorplan_percent="69.5682" y="-0.461426" y_floorplan_percent="20.4753"/>
+    </userdata>
+    <view fovmode="2" pannorth="75.806">
       <start fov="144.32" pan="75.8151" projection="4" tilt="-10"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="-148.615" skinid="ht_node" target="92.5/-9.0/141.8" tilt="-19.7875" title="" url="{node39}"/>
+      <hotspot description="" id="Point01" pan="-148.615" skinid="ht_node" target="92.5/-9.0/141.8" tilt="-19.7875" title="Холл" url="{node39}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -356,18 +391,20 @@
       <level height="972" predecode="1" preload="1" width="972"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:17:35" comment="" copyright="" customnodeid="" datetime="04.10.2026 11:17" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node87" source="" tags="_2" title="301"/>
-    <view fovmode="2" pannorth="0">
+    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:17:35" comment="301" copyright="" customnodeid="" datetime="04.10.2026 11:17" description="Площадь: 41,67 м²" heading="26.9703" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node87" source="" tags="_2" title="Терраса">
+      <mapcoords mapid="1" x="0.296631" x_floorplan_percent="12.4639" y="-1.40076" y_floorplan_percent="54.2553"/>
+    </userdata>
+    <view fovmode="2" pannorth="26.9703">
       <start fov="144.224" pan="28.4171" projection="4" tilt="-10"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="29.94" skinid="ht_node" target="-78.4/-10.0/141.8" tilt="-13.91" title="" url="{node91}"/>
-      <hotspot description="" id="Point02" pan="-64.64" skinid="ht_node" target="4.6/-8.0/141.8" tilt="-34.38" title="" url="{node21}"/>
-      <hotspot description="" id="Point03" pan="117.56" skinid="ht_node" target="169.0/-6.0/141.8" tilt="-27.45" title="" url="{node118}"/>
-      <hotspot description="" id="Point04" pan="-160.59" skinid="ht_node" target="52.3/-2.0/141.8" tilt="-9.68" title="" url="{node111}"/>
+      <hotspot description="" id="Point01" pan="29.94" skinid="ht_node" target="-78.4/-10.0/141.8" tilt="-13.91" title="Терраса" url="{node91}"/>
+      <hotspot description="" id="Point02" pan="-64.64" skinid="ht_node" target="4.6/-8.0/141.8" tilt="-34.38" title="Гостинная/кухная-столовая" url="{node21}"/>
+      <hotspot description="" id="Point03" pan="117.56" skinid="ht_node" target="169.0/-6.0/141.8" tilt="-27.45" title="332" url="{node118}"/>
+      <hotspot description="" id="Point04" pan="-160.59" skinid="ht_node" target="52.3/-2.0/141.8" tilt="-9.68" title="325" url="{node111}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -379,19 +416,21 @@
       <level height="970" predecode="1" preload="1" width="970"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:19:08" comment="" copyright="" customnodeid="" datetime="04.10.2026 11:19" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node91" source="" tags="_2" title="305"/>
-    <view fovmode="2" pannorth="0">
+    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:19:08" comment="305" copyright="" customnodeid="" datetime="04.10.2026 11:19" description="Площадь: 41,67 м²" heading="46.6773" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node91" source="" tags="_2" title="Терраса">
+      <mapcoords mapid="1" x="0.249939" x_floorplan_percent="10.502" y="-0.244446" y_floorplan_percent="9.46809"/>
+    </userdata>
+    <view fovmode="2" pannorth="46.6773">
       <start fov="144.224" pan="-78.4141" projection="4" tilt="-10"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="-129.39" skinid="ht_node" target="-60.6/-10.0/141.8" tilt="-12.22" title="" url="{node87}"/>
-      <hotspot description="" id="Point02" pan="79.16" skinid="ht_node" target="133.5/-7.0/141.8" tilt="-19.51" title="" url="{node120}"/>
-      <hotspot description="" id="Point03" pan="29.34" skinid="ht_node" target="84.2/-4.0/141.8" tilt="-9.54" title="" url="{node126}"/>
-      <hotspot description="" id="Point04" pan="-43.9" skinid="ht_node" target="-0.1/-10.0/141.8" tilt="-17.18" title="" url="{node95}"/>
-      <hotspot description="" id="Point05" pan="-165.15" skinid="ht_node" target="-0.0/-6.0/141.8" tilt="-19.62" title="" url="{node118}"/>
+      <hotspot description="" id="Point01" pan="-129.39" skinid="ht_node" target="-60.6/-10.0/141.8" tilt="-12.22" title="Терраса" url="{node87}"/>
+      <hotspot description="" id="Point02" pan="79.16" skinid="ht_node" target="133.5/-7.0/141.8" tilt="-19.51" title="334" url="{node120}"/>
+      <hotspot description="" id="Point03" pan="29.34" skinid="ht_node" target="84.2/-4.0/141.8" tilt="-9.54" title="340" url="{node126}"/>
+      <hotspot description="" id="Point04" pan="-43.9" skinid="ht_node" target="-0.1/-10.0/141.8" tilt="-17.18" title="Тамбур" url="{node95}"/>
+      <hotspot description="" id="Point05" pan="-165.15" skinid="ht_node" target="-0.0/-6.0/141.8" tilt="-19.62" title="332" url="{node118}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -402,19 +441,21 @@
       <level height="972" predecode="1" preload="1" width="972"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:20:03" comment="" copyright="" customnodeid="" datetime="04.10.2026 11:20" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node95" source="" tags="_2" title="309"/>
-    <view fovmode="2" pannorth="0">
+    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:20:03" comment="309" copyright="" customnodeid="" datetime="04.10.2026 11:20" description="Площадь: 3,52 м²" heading="87.445" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node95" source="" tags="_2" title="Тамбур">
+      <mapcoords mapid="1" x="0.961304" x_floorplan_percent="40.3924" y="-0.255432" y_floorplan_percent="9.89362"/>
+    </userdata>
+    <view fovmode="2" pannorth="87.445">
       <start fov="144.224" pan="-0.139778" projection="4" tilt="-10"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="-179.86" skinid="ht_node" target="-78.4/-10.0/141.8" tilt="-19.72" title="" url="{node91}"/>
-      <hotspot description="" id="Point02" pan="-89" skinid="ht_node" target="-28.5/-8.0/141.8" tilt="-25.39" title="" url="{node81}"/>
-      <hotspot description="" id="Point03" pan="-0.95" skinid="ht_node" target="179.5/-10.0/141.8" tilt="-14.03" title="" url="{node98}"/>
-      <hotspot description="" id="Point04" pan="85.32" skinid="ht_node" target="84.2/-4.0/141.8" tilt="-10.21" title="" url="{node126}"/>
-      <hotspot description="" id="Point05" pan="142.62" skinid="ht_node" target="133.5/-7.0/141.8" tilt="-14.47" title="" url="{node120}"/>
+      <hotspot description="" id="Point01" pan="-179.86" skinid="ht_node" target="-78.4/-10.0/141.8" tilt="-19.72" title="Терраса" url="{node91}"/>
+      <hotspot description="" id="Point02" pan="-89" skinid="ht_node" target="-28.5/-8.0/141.8" tilt="-25.39" title="Гостинная/кухная-столовая" url="{node81}"/>
+      <hotspot description="" id="Point03" pan="-0.95" skinid="ht_node" target="179.5/-10.0/141.8" tilt="-14.03" title="Терраса" url="{node98}"/>
+      <hotspot description="" id="Point04" pan="85.32" skinid="ht_node" target="84.2/-4.0/141.8" tilt="-10.21" title="340" url="{node126}"/>
+      <hotspot description="" id="Point05" pan="142.62" skinid="ht_node" target="133.5/-7.0/141.8" tilt="-14.47" title="334" url="{node120}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -425,18 +466,20 @@
       <level height="972" predecode="1" preload="1" width="972"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:21:06" comment="" copyright="" customnodeid="" datetime="04.10.2026 11:21" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node98" source="" tags="_2" title="312"/>
-    <view fovmode="2" pannorth="0">
+    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:21:06" comment="312" copyright="" customnodeid="" datetime="04.10.2026 11:21" description="Площадь: 41,67 м²" heading="88.7314" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node98" source="" tags="_2" title="Терраса">
+      <mapcoords mapid="1" x="1.83197" x_floorplan_percent="76.9763" y="-0.258179" y_floorplan_percent="10"/>
+    </userdata>
+    <view fovmode="2" pannorth="88.7314">
       <start fov="144.224" pan="179.463" projection="4" tilt="-10"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="179.73" skinid="ht_node" target="178.9/-10.0/141.8" tilt="-20.26" title="" url="{node95}"/>
-      <hotspot description="" id="Point02" pan="-92.01" skinid="ht_node" target="-91.4/-8.0/141.8" tilt="-40.95" title="" url="{node18}"/>
+      <hotspot description="" id="Point01" pan="179.73" skinid="ht_node" target="178.9/-10.0/141.8" tilt="-20.26" title="Тамбур" url="{node95}"/>
+      <hotspot description="" id="Point02" pan="-92.01" skinid="ht_node" target="-91.4/-8.0/141.8" tilt="-40.95" title="Комната" url="{node18}"/>
       <hotspot description="" id="Point03" pan="95.62" skinid="ht_url" target="_blank" tilt="-9.18" title="" url=""/>
-      <hotspot description="" id="Point04" pan="154.97" skinid="ht_node" target="133.5/-7.0/141.8" tilt="-11.31" title="" url="{node120}"/>
+      <hotspot description="" id="Point04" pan="154.97" skinid="ht_node" target="133.5/-7.0/141.8" tilt="-11.31" title="334" url="{node120}"/>
       <hotspot description="" id="Point05" pan="24.27" skinid="ht_url" target="_blank" tilt="-15.65" title="" url=""/>
     </hotspots>
     <media/>
@@ -449,18 +492,20 @@
       <level height="970" predecode="1" preload="1" width="970"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:29:03" comment="" copyright="" customnodeid="" datetime="04.10.2026 11:29" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node109" source="" tags="_2" title="323"/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:29:03" comment="" copyright="" customnodeid="" datetime="04.10.2026 11:29" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node109" source="" tags="_2" title="323">
+      <mapcoords mapid="FloorPlan02" x="0.672913" x_floorplan_percent="60.8696" y="-0.63858" y_floorplan_percent="39.897"/>
+    </userdata>
     <view fovmode="2" pannorth="0">
-      <start fov="141.8" pan="92.4" projection="4" tilt="9"/>
+      <start fov="144.773" pan="92.0841" projection="4" tilt="15"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="85.7265" skinid="ht_node" target="166.3/-8.0/144.3" tilt="-1.67547" title="" url="{node4}"/>
-      <hotspot description="" id="Point02" pan="35.9632" skinid="ht_node" target="95.6/9.7/141.8" tilt="-9.44345" title="" url="{node135}"/>
-      <hotspot description="" id="Point03" pan="-178.131" skinid="ht_node" target="52.3/-2.0/141.8" tilt="-13.0194" title="" url="{node111}"/>
-      <hotspot description="" id="Point04" pan="3.21903" skinid="ht_node" target="97.0/0.0/141.8" tilt="-10.8164" title="" url="{node139}"/>
+      <hotspot description="" id="Point01" pan="85.7265" skinid="ht_node" target="166.3/-8.0/144.3" tilt="-1.67547" title="Холл" url="{node4}"/>
+      <hotspot description="" id="Point02" pan="35.9632" skinid="ht_node" target="95.6/9.7/141.8" tilt="-9.44345" title="349" url="{node135}"/>
+      <hotspot description="" id="Point03" pan="-178.131" skinid="ht_node" target="52.3/-2.0/141.8" tilt="-13.0194" title="325" url="{node111}"/>
+      <hotspot description="" id="Point04" pan="3.21903" skinid="ht_node" target="97.0/0.0/141.8" tilt="-10.8164" title="353" url="{node139}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -472,17 +517,19 @@
       <level height="970" predecode="1" preload="1" width="970"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:30:01" comment="" copyright="" customnodeid="" datetime="04.10.2026 11:30" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node111" source="" tags="_2" title="325"/>
-    <view fovmode="2" pannorth="0">
+    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:30:01" comment="" copyright="" customnodeid="" datetime="04.10.2026 11:30" description="" heading="-1.54114" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node111" source="" tags="_2" title="325">
+      <mapcoords mapid="FloorPlan02" x="0.677032" x_floorplan_percent="61.2422" y="-0.777283" y_floorplan_percent="48.5628"/>
+    </userdata>
+    <view fovmode="2" pannorth="-1.54114">
       <start fov="144.224" pan="52.3386" projection="4" tilt="-2"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="99.24" skinid="ht_node" target="169.0/-6.0/141.8" tilt="-13.38" title="" url="{node118}"/>
-      <hotspot description="" id="Point02" pan="80.45" skinid="ht_node" target="28.4/-10.0/141.8" tilt="-6.53" title="" url="{node87}"/>
-      <hotspot description="" id="Point03" pan="-3.05" skinid="ht_node" target="92.4/0.0/141.8" tilt="-10.09" title="" url="{node109}"/>
+      <hotspot description="" id="Point01" pan="99.24" skinid="ht_node" target="169.0/-6.0/141.8" tilt="-13.38" title="332" url="{node118}"/>
+      <hotspot description="" id="Point02" pan="80.45" skinid="ht_node" target="28.4/-10.0/141.8" tilt="-6.53" title="Терраса" url="{node87}"/>
+      <hotspot description="" id="Point03" pan="-3.05" skinid="ht_node" target="92.1/15.0/141.8" tilt="-10.09" title="323" url="{node109}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -494,18 +541,20 @@
       <level height="970" predecode="1" preload="1" width="970"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:31:20" comment="" copyright="" customnodeid="" datetime="04.10.2026 11:31" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node118" source="" tags="_2" title="332"/>
-    <view fovmode="2" pannorth="0">
+    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:31:20" comment="" copyright="" customnodeid="" datetime="04.10.2026 11:31" description="" heading="80.3195" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node118" source="" tags="_2" title="332">
+      <mapcoords mapid="FloorPlan02" x="0.514984" x_floorplan_percent="46.5839" y="-0.782776" y_floorplan_percent="48.906"/>
+    </userdata>
+    <view fovmode="2" pannorth="80.3195">
       <start fov="144.224" pan="168.987" projection="4" tilt="-6"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="170.74" skinid="ht_node" target="133.5/-7.0/141.8" tilt="-7.66" title="" url="{node120}"/>
-      <hotspot description="" id="Point02" pan="72.34" skinid="ht_node" target="" tilt="-6.75" title="" url="{node87}"/>
-      <hotspot description="" id="Point03" pan="135.37" skinid="ht_node" target="-78.4/-10.0/141.8" tilt="-4.45" title="" url="{node91}"/>
-      <hotspot description="" id="Point04" pan="-3.36" skinid="ht_node" target="52.3/-2.0/141.8" tilt="-4.5" title="" url="{node111}"/>
+      <hotspot description="" id="Point01" pan="170.74" skinid="ht_node" target="133.5/-7.0/141.8" tilt="-7.66" title="334" url="{node120}"/>
+      <hotspot description="" id="Point02" pan="72.34" skinid="ht_node" target="" tilt="-6.75" title="Терраса" url="{node87}"/>
+      <hotspot description="" id="Point03" pan="135.37" skinid="ht_node" target="-78.4/-10.0/141.8" tilt="-4.45" title="Терраса" url="{node91}"/>
+      <hotspot description="" id="Point04" pan="-3.36" skinid="ht_node" target="52.3/-2.0/141.8" tilt="-4.5" title="325" url="{node111}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -517,17 +566,19 @@
       <level height="970" predecode="1" preload="1" width="970"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:32:28" comment="" copyright="" customnodeid="" datetime="04.10.2026 11:32" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node120" source="" tags="_2" title="334"/>
-    <view fovmode="2" pannorth="0">
+    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:32:28" comment="" copyright="" customnodeid="" datetime="04.10.2026 11:32" description="" heading="152.839" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node120" source="" tags="_2" title="334">
+      <mapcoords mapid="FloorPlan02" x="0.295258" x_floorplan_percent="26.7081" y="-0.791016" y_floorplan_percent="49.4208"/>
+    </userdata>
+    <view fovmode="2" pannorth="152.839">
       <start fov="144.224" pan="133.491" projection="4" tilt="-7"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="-157.45" skinid="ht_node" target="84.2/-4.0/141.8" tilt="-9.89" title="" url="{node126}"/>
-      <hotspot description="" id="Point02" pan="154.53" skinid="ht_node" target="79.3/11.3/141.8" tilt="-5.71" title="" url="{node130}"/>
-      <hotspot description="" id="Point03" pan="62.33" skinid="ht_node" target="-2.0/-6.0/141.8" tilt="-7.62" title="" url="{node118}"/>
+      <hotspot description="" id="Point01" pan="-157.45" skinid="ht_node" target="84.2/-4.0/141.8" tilt="-9.89" title="340" url="{node126}"/>
+      <hotspot description="" id="Point02" pan="133.33" skinid="ht_node" target="79.3/11.3/141.8" tilt="-4.42" title="344" url="{node130}"/>
+      <hotspot description="" id="Point03" pan="62.33" skinid="ht_node" target="-2.0/-6.0/141.8" tilt="-7.62" title="332" url="{node118}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -539,16 +590,18 @@
       <level height="970" predecode="1" preload="1" width="970"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:33:29" comment="" copyright="" customnodeid="" datetime="04.10.2026 11:33" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node126" source="" tags="_2" title="340"/>
-    <view fovmode="2" pannorth="0">
+    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:33:29" comment="" copyright="" customnodeid="" datetime="04.10.2026 11:33" description="" heading="168.111" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node126" source="" tags="_2" title="340">
+      <mapcoords mapid="FloorPlan02" x="0.192261" x_floorplan_percent="17.3913" y="-0.677032" y_floorplan_percent="42.2994"/>
+    </userdata>
+    <view fovmode="2" pannorth="168.111">
       <start fov="144.224" pan="84.2358" projection="4" tilt="-4"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="132.371" skinid="ht_node" target="79.3/11.3/141.8" tilt="-6.3546" title="" url="{node130}"/>
-      <hotspot description="" id="Point02" pan="24.5802" skinid="ht_node" target="133.5/-7.0/141.8" tilt="-6.93188" title="" url="{node120}"/>
+      <hotspot description="" id="Point01" pan="132.371" skinid="ht_node" target="79.3/11.3/141.8" tilt="-6.3546" title="344" url="{node130}"/>
+      <hotspot description="" id="Point02" pan="24.5802" skinid="ht_node" target="133.5/-7.0/141.8" tilt="-6.93188" title="334" url="{node120}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -559,18 +612,20 @@
       <level height="972" predecode="1" preload="1" width="972"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:34:48" comment="" copyright="" customnodeid="" datetime="04.10.2026 11:34" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node130" source="" tags="_2" title="344"/>
-    <view fovmode="2" pannorth="0">
+    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:34:48" comment="" copyright="" customnodeid="" datetime="04.10.2026 11:34" description="" heading="245.117" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node130" source="" tags="_2" title="344">
+      <mapcoords mapid="FloorPlan02" x="0.414734" x_floorplan_percent="37.5155" y="-0.543823" y_floorplan_percent="33.9768"/>
+    </userdata>
+    <view fovmode="2" pannorth="245.117">
       <start fov="144.224" pan="79.2773" projection="4" tilt="11.3295"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="66.45" skinid="ht_node" target="179.5/-10.0/141.8" tilt="-6.49" title="" url="{node98}"/>
-      <hotspot description="" id="Point02" pan="155.89" skinid="ht_node" target="161.7/-11.4/141.8" tilt="-15.13" title="" url="{node134}"/>
-      <hotspot description="" id="Point03" pan="-0.11" skinid="ht_node" target="84.2/-4.0/141.8" tilt="-6.4" title="" url="{node126}"/>
-      <hotspot description="" id="Point04" pan="38.27" skinid="ht_node" target="133.5/-7.0/141.8" tilt="-6.46" title="" url="{node120}"/>
+      <hotspot description="" id="Point01" pan="66.45" skinid="ht_node" target="179.5/-10.0/141.8" tilt="-6.49" title="Терраса" url="{node98}"/>
+      <hotspot description="" id="Point02" pan="155.89" skinid="ht_node" target="161.7/-11.4/141.8" tilt="-15.13" title="348" url="{node134}"/>
+      <hotspot description="" id="Point03" pan="-0.11" skinid="ht_node" target="84.2/-4.0/141.8" tilt="-6.4" title="340" url="{node126}"/>
+      <hotspot description="" id="Point04" pan="38.27" skinid="ht_node" target="133.5/-7.0/141.8" tilt="-6.46" title="334" url="{node120}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -582,16 +637,18 @@
       <level height="970" predecode="1" preload="1" width="970"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:35:39" comment="" copyright="" customnodeid="" datetime="04.10.2026 11:35" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node134" source="" tags="_2" title="348"/>
-    <view fovmode="2" pannorth="0">
+    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:35:39" comment="" copyright="" customnodeid="" datetime="04.10.2026 11:35" description="" heading="-99.0721" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node134" source="" tags="_2" title="348">
+      <mapcoords mapid="FloorPlan02" x="0.527344" x_floorplan_percent="47.7019" y="-0.53421" y_floorplan_percent="33.3762"/>
+    </userdata>
+    <view fovmode="2" pannorth="-99.0721">
       <start fov="144.224" pan="82.6738" projection="4" tilt="17.6356"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="168.23" skinid="ht_node" target="95.6/9.7/141.8" tilt="-9.97" title="" url="{node135}"/>
-      <hotspot description="" id="Point02" pan="-3.47" skinid="ht_node" target="79.3/11.3/141.8" tilt="-11.2" title="" url="{node130}"/>
+      <hotspot description="" id="Point01" pan="168.23" skinid="ht_node" target="95.6/9.7/141.8" tilt="-9.97" title="349" url="{node135}"/>
+      <hotspot description="" id="Point02" pan="-3.47" skinid="ht_node" target="79.3/11.3/141.8" tilt="-11.2" title="344" url="{node130}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -603,17 +660,19 @@
       <level height="970" predecode="1" preload="1" width="970"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:36:11" comment="" copyright="" customnodeid="" datetime="04.10.2026 11:36" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node135" source="" tags="_2" title="349"/>
-    <view fovmode="2" pannorth="0">
+    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:36:11" comment="" copyright="" customnodeid="" datetime="04.10.2026 11:36" description="" heading="-52.4618" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node135" source="" tags="_2" title="349">
+      <mapcoords mapid="FloorPlan02" x="0.611115" x_floorplan_percent="55.2795" y="-0.535583" y_floorplan_percent="33.462"/>
+    </userdata>
+    <view fovmode="2" pannorth="-52.4618">
       <start fov="144.224" pan="95.6391" projection="4" tilt="9.66542"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="34.46" skinid="ht_node" target="1.7/-10.4/141.8" tilt="-9.91" title="" url="{node134}"/>
-      <hotspot description="" id="Point02" pan="-144.02" skinid="ht_node" target="96.0/4.3/141.8" tilt="-10.55" title="" url="{node139}"/>
-      <hotspot description="" id="Point03" pan="161.96" skinid="ht_node" target="92.4/7.0/141.8" tilt="-6.93" title="" url="{node109}"/>
+      <hotspot description="" id="Point01" pan="34.46" skinid="ht_node" target="1.7/-10.4/141.8" tilt="-9.91" title="348" url="{node134}"/>
+      <hotspot description="" id="Point02" pan="-144.02" skinid="ht_node" target="96.0/4.3/141.8" tilt="-10.55" title="353" url="{node139}"/>
+      <hotspot description="" id="Point03" pan="161.96" skinid="ht_node" target="92.1/15.0/141.8" tilt="-6.93" title="323" url="{node109}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -624,23 +683,25 @@
       <level height="972" predecode="1" preload="1" width="972"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:37:39" comment="" copyright="" customnodeid="" datetime="04.10.2026 11:37" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node139" source="" tags="_2" title="353"/>
-    <view fovmode="2" pannorth="0">
+    <userdata altitude="0.00" author="" capturedatetime="2026-10-04T14:37:39" comment="" copyright="" customnodeid="" datetime="04.10.2026 11:37" description="" heading="-28.2126" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node139" source="" tags="_2" title="353">
+      <mapcoords mapid="FloorPlan02" x="0.672913" x_floorplan_percent="60.8696" y="-0.537643" y_floorplan_percent="33.5907"/>
+    </userdata>
+    <view fovmode="2" pannorth="-28.2126">
       <start fov="141.8" pan="97.0197" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="149.05" skinid="ht_node" target="92.4/9.0/141.8" tilt="-11.31" title="" url="{node109}"/>
-      <hotspot description="" id="Point02" pan="56.57" skinid="ht_node" target="95.6/9.7/141.8" tilt="-12.57" title="" url="{node135}"/>
-      <hotspot description="" id="Point03" pan="104.4" skinid="ht_node" target="166.3/-8.0/144.3" tilt="-4.73" title="" url="{node4}"/>
+      <hotspot description="" id="Point01" pan="149.05" skinid="ht_node" target="92.1/15.0/141.8" tilt="-11.31" title="323" url="{node109}"/>
+      <hotspot description="" id="Point02" pan="56.57" skinid="ht_node" target="95.6/9.7/141.8" tilt="-12.57" title="349" url="{node135}"/>
+      <hotspot description="" id="Point03" pan="104.4" skinid="ht_node" target="166.3/-8.0/144.3" tilt="-4.73" title="Холл" url="{node4}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <masternode>
-    <userdata author="" comment="" copyright="" description="" tags="" title="" uuid="{6b7e9eed-ff2e-4f87-90fc-1d1bdd5776ba}"/>
+    <userdata author="" comment="" copyright="" description="Зеленоград" tags="" title="ул. Северная, дом 45" uuid="{5ec8e198-e502-4f93-a3ac-04a0ea098559}"/>
     <transition blendcolor="0x000000" blendtime="1" delay="none" enabled="1" softedge="0" type="crossdissolve" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" zoomin="0" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
     <control contextfullscreen="1" contextprojections="0" contextvr="1" dblclickfullscreen="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" lockedwheel="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" zoomcentercursor="1"/>
     <animationsequences>
@@ -651,4 +712,7 @@
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0"/>
     </hotspots>
   </masternode>
+  <map bgcolor="rgba(255, 255, 255, 1)" crispedges="0" floorplannorth="0" height="1880" id="1" index="0" tileformat="png" title="1 этаж" transparent="0" type="file" width="1733" zoomlevels="1"/>
+  <map bgcolor="rgba(255, 255, 255, 1)" crispedges="0" floorplannorth="0" height="1641" id="FloorPlan01" index="1" tileformat="jpg" title="2 этаж" transparent="0" type="file" width="1459" zoomlevels="1"/>
+  <map bgcolor="rgba(255, 255, 255, 1)" crispedges="0" floorplannorth="0" height="2331" id="FloorPlan02" index="2" tileformat="jpg" title="Участок" transparent="0" type="file" width="1610" zoomlevels="1"/>
 </tour>
